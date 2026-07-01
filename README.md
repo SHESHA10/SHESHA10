@@ -1,9 +1,7 @@
 # 💫 About Me:
 I can do it alone , I always do . 
 
-
-<img width="620" height="350" alt="He did" src="https://github.com/user-attachments/assets/c25376ce-c039-45cd-9aec-a0173fcccecf" />
-
+<img width="588" height="368" alt="Steve Jobs (1955 - 2011) nuff said(1)" src="https://github.com/user-attachments/assets/72f3b5f4-3085-4151-a572-9dc21df61b5e" />
 
 
 
