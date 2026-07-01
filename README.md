@@ -2,8 +2,8 @@
 I can do it alone , I always do . 
 
 
+<img width="620" height="350" alt="He did" src="https://github.com/user-attachments/assets/c25376ce-c039-45cd-9aec-a0173fcccecf" />
 
-<img width="375" height="530" alt="Think different_" src="https://github.com/user-attachments/assets/73e98138-d58f-4301-87c8-59d6451ae1b8" />
 
 
 
