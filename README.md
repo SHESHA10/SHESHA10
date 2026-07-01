@@ -17,8 +17,8 @@ I can do it alone , I always do .
 ![](https://streak-stats.demolab.com/?user=SHESHA10&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SHESHA10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### ✍️ QUOTES
+<img width="735" height="416" alt="135741376265036130" src="https://github.com/user-attachments/assets/f141523b-3ff0-428f-b21d-83a7b7a4a905" />
 
 ---
 [![](https://komarev.com/ghpvc/?username=SHESHA10&icon=0&color=0)](https://visitcount.itsvg.in)
