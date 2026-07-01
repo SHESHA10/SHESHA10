@@ -19,10 +19,6 @@ I can do it alone , I always do .
 <img width="735" height="416" alt="135741376265036130" src="https://github.com/user-attachments/assets/f141523b-3ff0-428f-b21d-83a7b7a4a905" />
 
 ---
-[![](https://komarev.com/ghpvc/?username=SHESHA10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
