@@ -2,6 +2,11 @@
 I can do it alone , I always do . 
 
 
+
+<img width="375" height="530" alt="Think different_" src="https://github.com/user-attachments/assets/73e98138-d58f-4301-87c8-59d6451ae1b8" />
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shesha_nagaraji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shesha-nagaraji-a9419531b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shesha6286@gmail.com) 
 
