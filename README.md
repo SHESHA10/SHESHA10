@@ -100,52 +100,7 @@ I'm a passionate developer who believes in **self-reliance**, **continuous learn
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SHESHA10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHESHA10&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=SHESHA10&theme=radical&hide_border=false" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SHESHA10&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHESHA10&theme=redical&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SHESHA10/SHESHA10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
 
 ## ✍️ Words I Live By
 
