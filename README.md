@@ -54,10 +54,7 @@ I'm a passionate developer who believes in **self-reliance**, **continuous learn
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Org Mode](https://img.shields.io/badge/Org_Mode-77AA99?style=for-the-badge&logo=org&logoColor=white)
 
 </div>
 
@@ -90,8 +87,6 @@ I'm a passionate developer who believes in **self-reliance**, **continuous learn
 ### ☁️ Cloud & DevOps
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -119,8 +114,8 @@ I'm a passionate developer who believes in **self-reliance**, **continuous learn
 
 ```
     ┌─────────────────────────────────────────────┐
-    │  "I can do it alone, I always do."          │
-    │                    — Shesha Nagaraji        │
+    │  "No one is going to help you."             │
+    │                               — Shesha      │
     └─────────────────────────────────────────────┘
 ```
 
